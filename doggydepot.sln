@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "DoggyDepot", ".", "{F0C74587-ECA7-424D-A977-E20C3A3ECB93}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_39438"
+		Debug.AspNetCompiler.PhysicalPath = "..\doggydepot\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_39438\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_39438"
+		Release.AspNetCompiler.PhysicalPath = "..\doggydepot\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_39438\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "39438"
+		SlnRelativePath = "..\doggydepot\"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "wwww.doggydepot.com", "wwww.doggydepot.com\", "{7966E59C-F086-43AD-941D-415B4FD1A16E}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_65104"
+		Debug.AspNetCompiler.PhysicalPath = "wwww.doggydepot.com\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_65104\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_65104"
+		Release.AspNetCompiler.PhysicalPath = "wwww.doggydepot.com\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_65104\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "65104"
+		SlnRelativePath = "wwww.doggydepot.com\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0C74587-ECA7-424D-A977-E20C3A3ECB93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0C74587-ECA7-424D-A977-E20C3A3ECB93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7966E59C-F086-43AD-941D-415B4FD1A16E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7966E59C-F086-43AD-941D-415B4FD1A16E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CE4060D-A60B-4ECD-8D47-EFE387D1DC73}
+	EndGlobalSection
+EndGlobal
